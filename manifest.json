@@ -1,0 +1,12 @@
+{
+  "name": "MyDashh+",
+  "version": "2.0.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "MyDashPluss",
+    "icon": "https://www.owlbear.rodeo/favicon.ico",
+    "popover": "/addonwolbear/index.html",
+    "width": 450,
+    "height": 650
+  }
+}
